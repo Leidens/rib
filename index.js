@@ -13,5 +13,5 @@ bot.on('message', message => {
     Rib.parse(message)
 })
 
-client.login(process.env.TOKEN);
+bot.login(process.env.TOKEN);
 

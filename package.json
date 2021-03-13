@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "author": "Leiden",
+  "scripts": {
+    "start": "node index.js"
+  },
   "license": "ISC",
   "worker": "node index.js",
   "dependencies": {

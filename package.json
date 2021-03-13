@@ -5,6 +5,7 @@
   "main": "index.js",
   "author": "Leiden",
   "license": "ISC",
+  "worker": "node index.js",
   "dependencies": {
     "discord.js": "^12.5.1"
   },

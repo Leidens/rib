@@ -3,7 +3,7 @@ const client = new Discord.Client()
 
 const Command = require('./command/command')
 const Rib = require('./command/rib')
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 5000;
 
 
 client.on('ready', function() {
